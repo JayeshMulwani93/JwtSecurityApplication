@@ -13,9 +13,9 @@ import com.solutions.security.model.User;
 import com.solutions.security.model.request.LoginRequest;
 import com.solutions.security.model.request.SignUpRequest;
 import com.solutions.security.model.request.UpdatePasswordRequest;
+import com.solutions.security.repository.cache.facade.CacheFacade;
 import com.solutions.security.repository.cache.model.JWTToken;
 import com.solutions.security.repository.db.UserRepository;
-import com.solutions.security.repository.facade.CacheFacade;
 import com.solutions.security.service.PasswordEncoderService;
 import com.solutions.security.service.UserAuthenticationService;
 

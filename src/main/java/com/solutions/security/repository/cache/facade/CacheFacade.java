@@ -1,4 +1,4 @@
-package com.solutions.security.repository.facade;
+package com.solutions.security.repository.cache.facade;
 
 import java.util.HashSet;
 import java.util.Optional;

@@ -19,8 +19,8 @@ import org.springframework.stereotype.Component;
 import org.springframework.web.filter.OncePerRequestFilter;
 
 import com.solutions.security.jwt.facade.JWTFacade;
+import com.solutions.security.repository.cache.facade.CacheFacade;
 import com.solutions.security.repository.cache.model.JWTToken;
-import com.solutions.security.repository.facade.CacheFacade;
 
 import io.jsonwebtoken.Claims;
 import lombok.extern.slf4j.Slf4j;
