@@ -22,3 +22,5 @@ Tech Stack Used:
 9.	Spring Data JPA
 10. Jackson to validate input requests
 11. Lombok
+
+![Swagger](https://github.com/JayeshMulwani93/jwt-security-application/blob/master/src/main/resources/SwaggerScreenshotForReadMe.png)
